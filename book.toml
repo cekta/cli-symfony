@@ -1,0 +1,9 @@
+[book]
+authors = ["Evgeniy Kuvshinov"]
+language = "ru"
+src = "docs"
+title = "TITLE"
+
+[output.html]
+default-theme = "rust"
+preferred-dark-theme = "ayu"
