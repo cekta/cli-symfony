@@ -4,7 +4,6 @@ declare(strict_types=1);
 
 namespace Cekta\CliSymfony;
 
-use Cekta\Framework\CLI\Application;
 use Cekta\Framework\Project;
 use Exception;
 use Psr\Container\ContainerExceptionInterface;
